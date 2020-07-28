@@ -1,0 +1,165 @@
+{
+    "categorias": [
+      {
+        "titulo": "TOP 8 músicas",
+        "link": "https://www.youtube.com/watch?v=ei8hPkyJ0bU&list=RDei8hPkyJ0bU&start_radio=1",
+        "cor": "#4B0082",
+        "videos": [
+          {
+            "titulo": "ASKING ALEXANDRIA - The Black",
+            "url": "https://www.youtube.com/watch?v=b1RKaRgVFKk"
+          },
+          {
+            "titulo": "Paramore: crushcrushcrush",
+            "url": "https://www.youtube.com/watch?v=ei8hPkyJ0bU&list=RDei8hPkyJ0bU&start_radio=1"
+          },
+          {
+            "titulo": "Motionless In White - Voices",
+            "url": "https://www.youtube.com/watch?v=B3faYe5V4Sk"
+          },
+          {
+            "titulo": "Black Veil Brides - Goodbye Agony",
+            "url": "https://www.youtube.com/watch?v=f-cxPIOAfSk"
+          },
+          {
+            "titulo": "Bon Jovi - You Give Love A Bad Name",
+            "url": "https://www.youtube.com/watch?v=N0CK36W9c00"
+          },
+          {
+            "titulo": "Sweet Child O' Mine",
+            "url": "https://www.youtube.com/watch?v=jq_FWScqyG8"
+          },
+          {
+            "titulo": "Avril Lavigne - Here's to Never Growing Up",
+            "url": "https://www.youtube.com/watch?v=sXd2WxoOP5g"
+          },
+          {
+            "titulo": "SCATOLOVE - ENTUPIR DE BRABULETAS ",
+            "url": "https://www.youtube.com/watch?v=X_SytEAcpLM"
+          }        
+        ]
+      },
+      {
+        "titulo": "TOP 5 séries",
+        "cor": "#9400D3",
+        "videos": [
+          {
+            "titulo": "Bones",
+            "url": "https://www.youtube.com/watch?v=HHeuE2lvl08"
+          },
+          {
+            "titulo": "Breaking Bad",
+            "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+          },
+          {
+            "titulo": "Orange is the New Black",
+            "url": "https://www.youtube.com/watch?v=vY0qzXi5oJg"
+          },
+          {
+            "titulo": "The Society",
+            "url": "https://www.youtube.com/watch?v=lTZ7QcDImFE"
+          }, 
+          {
+            "titulo": "Coisa Mais Linda",
+            "url": "https://www.youtube.com/watch?v=gi5pXrQhZxQ"
+          }
+        ]
+      },
+      {
+        "titulo": "TOP 4 filmes",
+        "cor": "#9932CC",
+        "videos": [
+          {
+            "titulo": "Edward Mãos de Tesoura",
+            "url": "https://www.youtube.com/watch?v=4XKjYC-_GJM"
+          },
+          {
+            "titulo": "Harry Potter e a Ordem da Fênix",
+            "url": "https://www.youtube.com/watch?v=6nzOej8jGgs"
+          },
+          {
+            "titulo": "Zodíaco",
+            "url": "https://www.youtube.com/watch?v=yNncHPl1UXg"
+          },
+          {
+            "titulo": "As vantagens de ser invisível",
+            "url": "https://www.youtube.com/watch?v=TsIYJDAscLE"
+          }
+        ]
+      },
+      {
+        "titulo": "TOP 4 livros",
+        "cor": "#9932CC",
+        "videos": [
+          {
+            "titulo": "Objetos Cortantes",
+            "url": "https://www.youtube.com/watch?v=3C6YVcwtSLY"
+          },
+          {
+            "titulo": "Lugares Escuros",
+            "url": "https://www.youtube.com/watch?v=l6Wy_8Xkp9s"
+          },
+          {
+            "titulo": "Sombra e Ossos",
+            "url": "https://www.youtube.com/watch?v=Ky7Nl6sbSTg"
+          },
+          {
+            "titulo": "Max",
+            "url": "https://www.youtube.com/watch?v=YzOjlobgIbU"
+          }
+        ]
+      },
+      {
+        "titulo": "Top 5 animais",
+        "cor": "#9370DB",
+        "videos": [
+          {
+            "titulo": "Hiena",
+            "url": "https://www.youtube.com/watch?v=FQaSRKP8Dho"
+          },
+          {
+            "titulo": "Cachorro",
+            "url": "https://www.youtube.com/watch?v=Z_OJjyc-nog"
+          },
+          {
+            "titulo": "Gato",
+            "url": "https://www.youtube.com/watch?v=zbDQgFtce5M"
+          },
+          {
+            "titulo": "Panda",
+            "url": "https://www.youtube.com/watch?v=3qyCW8cP66E"
+          },
+          {
+            "titulo": "Cabra",
+            "url": "https://www.youtube.com/watch?v=kJRe9N0r7Xc"
+          }
+        ]
+      },
+      {
+        "titulo": "TOP 5 comidas",
+        "cor": "#BA55D3",
+        "videos": [
+          {
+            "titulo": "Carne Moída",
+            "url": "https://www.youtube.com/watch?v=-GuXraZfUGk"
+          },
+          {
+            "titulo": "Chocolate",
+            "url": "https://www.youtube.com/watch?v=FnV74O3r8hA"
+          },
+          {
+            "titulo": "Bife Acebolado",
+            "url": "https://www.youtube.com/watch?v=ySB4qxGqMvY"
+          },
+          {
+            "titulo": "Doce de Leite",
+            "url": "https://www.youtube.com/watch?v=71l4bgPAwbA"
+          },
+          {
+            "titulo": "Strogonoff",
+            "url": "https://www.youtube.com/watch?v=8utJtcDzPkY"
+          }
+        ]
+      }
+    ]
+  }
